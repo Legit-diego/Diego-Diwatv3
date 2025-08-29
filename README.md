@@ -17,7 +17,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print do(s) wireframe(s) criado
 
-![alt text](image-4.png)
+![alt text](<img width="1366" height="768" alt="WireframeFirelinkstore" src="https://github.com/user-attachments/assets/89667c6e-eb7a-4d13-80ab-06aeaaa57d49" />)
 
 ## Print da home-page criada
 
