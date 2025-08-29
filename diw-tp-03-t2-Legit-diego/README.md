@@ -17,7 +17,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print do(s) wireframe(s) criado
 
-![alt text](image-1.png)
+<img src="diw-tp-03-t2-Legit-diego/public/Captura de tela 2025-08-29 123807.png" alt="">
 
 ## Print da home-page criada
 
