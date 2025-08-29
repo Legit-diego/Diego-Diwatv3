@@ -17,10 +17,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print do(s) wireframe(s) criado
 
-![alt text](image-1.png)
+<img src="![alt text](image-6.png)" alt="">
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
-![alt text](image-2.png)
-![alt text](image-3.png)
+<img src="![alt text](image-5.png)" alt="">
+<img src="![alt text](image-7.png)" alt="">
